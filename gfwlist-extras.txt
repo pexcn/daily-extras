@@ -272,3 +272,6 @@ google.ws
 
 # discord
 discord.com
+
+# shopee
+shopee.tw
