@@ -284,3 +284,10 @@ bild.de
 
 # https://github.com/gfwlist/gfwlist/issues/1951
 mubi.com
+
+# https://github.com/gfwlist/gfwlist/issues/1946
+# api.themoviedb.org
+themoviedb.org
+
+# https://github.com/gfwlist/gfwlist/issues/1941
+feedly.com
