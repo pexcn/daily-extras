@@ -269,3 +269,6 @@ google.uk
 google.vg
 google.vu
 google.ws
+
+# discord
+discord.com
