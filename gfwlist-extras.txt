@@ -291,3 +291,12 @@ themoviedb.org
 
 # https://github.com/gfwlist/gfwlist/issues/1941
 feedly.com
+
+# https://github.com/gfwlist/gfwlist/issues/1940
+cato.org
+
+# https://github.com/gfwlist/gfwlist/issues/1939
+6parkbbs.com
+
+# https://github.com/gfwlist/gfwlist/issues/1937
+yigeni.com
