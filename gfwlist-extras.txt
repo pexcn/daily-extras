@@ -297,3 +297,8 @@ cato.org
 
 # https://github.com/gfwlist/gfwlist/issues/1939
 6parkbbs.com
+
+# https://github.com/gfwlist/gfwlist/issues/1935
+ao3.org
+archiveofourown.org
+archiveofourown.com
