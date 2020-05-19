@@ -1,3 +1,4 @@
+# blogspot
 blogspot.ae
 blogspot.al
 blogspot.am
@@ -60,6 +61,8 @@ blogspot.sk
 blogspot.sn
 blogspot.tw
 blogspot.ug
+
+# google
 google.ac
 google.ad
 google.ae
