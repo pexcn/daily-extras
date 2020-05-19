@@ -281,3 +281,6 @@ welt.de
 faz.net
 inoreader.com
 bild.de
+
+# https://github.com/gfwlist/gfwlist/issues/1951
+mubi.com
