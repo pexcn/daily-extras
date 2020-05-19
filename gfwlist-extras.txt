@@ -270,8 +270,14 @@ google.vg
 google.vu
 google.ws
 
-# discord
+# https://github.com/gfwlist/gfwlist/issues/1955
 discord.com
 
-# shopee
+# https://github.com/gfwlist/gfwlist/issues/1952
 shopee.tw
+
+# https://github.com/gfwlist/gfwlist/issues/1953
+welt.de
+faz.net
+inoreader.com
+bild.de
