@@ -302,3 +302,7 @@ cato.org
 ao3.org
 archiveofourown.org
 archiveofourown.com
+
+# https://github.com/gfwlist/gfwlist/issues/1934
+# docs.rsshub.app
+rsshub.app
