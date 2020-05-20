@@ -373,3 +373,25 @@ telegra.ph
 
 # https://github.com/gfwlist/gfwlist/issues/1893
 cnbc.com
+
+# https://github.com/gfwlist/gfwlist/issues/1891
+meirifuli.org
+
+# https://github.com/gfwlist/gfwlist/issues/1885
+# speedtest.googlefiber.net
+googlefiber.net
+
+# https://github.com/gfwlist/gfwlist/issues/1884
+# ropsten.etherscan.io
+etherscan.io
+
+# https://github.com/gfwlist/gfwlist/issues/1883
+# www.deviantart.com
+deviantart.com
+
+# https://github.com/gfwlist/gfwlist/issues/1882
+# liwenlianghero.github.io
+github.io
+
+# https://github.com/gfwlist/gfwlist/issues/1881
+newyorker.com
