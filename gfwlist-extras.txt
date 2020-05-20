@@ -329,3 +329,31 @@ gnews.org
 thetvdb.com
 # blog.reimu.net
 reimu.net
+
+# https://github.com/gfwlist/gfwlist/issues/1918
+hojemacau.com.mo
+
+# https://github.com/gfwlist/gfwlist/issues/1915
+fanqiang.network
+
+# https://github.com/gfwlist/gfwlist/issues/1914
+archive.ph
+archive.vn
+archive.md
+
+# https://github.com/gfwlist/gfwlist/issues/1913
+# www.bangkokpost.com
+bangkokpost.com
+# www.straitstimes.com
+straitstimes.com
+# www.channelnewsasia.com
+channelnewsasia.com
+nationalinterest.org
+
+# https://github.com/gfwlist/gfwlist/issues/1909
+merlinblog.xyz
+
+# https://github.com/gfwlist/gfwlist/issues/1903
+mail.com
+protonmail.com
+vivaldi.net
