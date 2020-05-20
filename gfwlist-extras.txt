@@ -357,3 +357,19 @@ merlinblog.xyz
 mail.com
 protonmail.com
 vivaldi.net
+
+# https://github.com/gfwlist/gfwlist/issues/1901
+apkcombo.com
+
+# https://github.com/gfwlist/gfwlist/issues/1899
+# avatars2.githubusercontent.com
+# avatars3.githubusercontent.com
+# avatars0.githubusercontent.com
+# camo.githubusercontent.com
+githubusercontent.com
+
+# https://github.com/gfwlist/gfwlist/issues/1898
+telegra.ph
+
+# https://github.com/gfwlist/gfwlist/issues/1893
+cnbc.com
