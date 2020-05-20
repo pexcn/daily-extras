@@ -306,3 +306,20 @@ archiveofourown.com
 # https://github.com/gfwlist/gfwlist/issues/1934
 # docs.rsshub.app
 rsshub.app
+
+# https://github.com/gfwlist/gfwlist/issues/1932
+noxinfluencer.com
+
+# https://github.com/gfwlist/gfwlist/issues/1931
+# www.kadokawa.co.jp
+kadokawa.co.jp
+
+# https://github.com/gfwlist/gfwlist/issues/1930
+radio.garden
+
+# https://github.com/gfwlist/gfwlist/issues/1928
+# en.uptodown.com
+uptodown.com
+
+# https://github.com/gfwlist/gfwlist/issues/1925
+gnews.org
