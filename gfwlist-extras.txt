@@ -323,3 +323,9 @@ uptodown.com
 
 # https://github.com/gfwlist/gfwlist/issues/1925
 gnews.org
+
+# https://github.com/gfwlist/gfwlist/issues/1923
+# www.thetvdb.com
+thetvdb.com
+# blog.reimu.net
+reimu.net
