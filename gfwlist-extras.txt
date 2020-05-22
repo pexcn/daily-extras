@@ -270,6 +270,9 @@ google.vg
 google.vu
 google.ws
 
+# https://github.com/gfwlist/gfwlist/issues/1956
+netflix.net
+
 # https://github.com/gfwlist/gfwlist/issues/1955
 discord.com
 
