@@ -270,6 +270,9 @@ google.vg
 google.vu
 google.ws
 
+# https://github.com/gfwlist/gfwlist/issues/1957
+wikimedia.org
+
 # https://github.com/gfwlist/gfwlist/issues/1956
 netflix.net
 
