@@ -270,6 +270,10 @@ google.vg
 google.vu
 google.ws
 
+# https://github.com/gfwlist/gfwlist/issues/1958
+# www.notion.so
+notion.so
+
 # https://github.com/gfwlist/gfwlist/issues/1957
 wikimedia.org
 
