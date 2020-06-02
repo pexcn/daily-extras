@@ -410,3 +410,7 @@ github.io
 
 # https://github.com/gfwlist/gfwlist/issues/1881
 newyorker.com
+
+# https://github.com/gfwlist/gfwlist/issues/1870
+# media.fantv.hk
+fantv.hk
