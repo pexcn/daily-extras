@@ -430,3 +430,43 @@ pornstarbyface.com
 
 # https://github.com/gfwlist/gfwlist/issues/1853
 metafilter.com
+
+# https://github.com/gfwlist/gfwlist/issues/1850
+# www.timtales.com
+timtales.com
+
+# https://github.com/gfwlist/gfwlist/issues/1849
+streamate.com
+
+# https://github.com/gfwlist/gfwlist/issues/1846
+justmysocks1.net
+
+# https://github.com/gfwlist/gfwlist/issues/1845
+parsevideo.com
+
+# https://github.com/gfwlist/gfwlist/issues/1844
+# m.kingkong.com.tw
+kingkong.com.tw
+
+# https://github.com/gfwlist/gfwlist/issues/1840
+lih.kg
+
+# https://github.com/gfwlist/gfwlist/issues/1838
+watchout.tw
+
+# https://github.com/gfwlist/gfwlist/issues/1835
+# www.appbrain.com
+appbrain.com
+
+# https://github.com/gfwlist/gfwlist/issues/1833
+technews.tw
+
+# https://github.com/gfwlist/gfwlist/issues/1826
+000webhost.com
+
+# https://github.com/gfwlist/gfwlist/issues/1824
+wtfast.com
+
+# https://github.com/gfwlist/gfwlist/issues/1817
+# apps.evozi.com
+evozi.com
