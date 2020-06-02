@@ -417,3 +417,16 @@ fantv.hk
 
 # https://github.com/gfwlist/gfwlist/issues/1868
 yande.re
+
+# https://github.com/gfwlist/gfwlist/issues/1867
+androidapksfree.com
+
+# https://github.com/gfwlist/gfwlist/issues/1864
+# www.apkcombo.com
+apkcombo.com
+
+# https://github.com/gfwlist/gfwlist/issues/1855
+pornstarbyface.com
+
+# https://github.com/gfwlist/gfwlist/issues/1853
+metafilter.com
