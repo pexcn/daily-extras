@@ -414,3 +414,6 @@ newyorker.com
 # https://github.com/gfwlist/gfwlist/issues/1870
 # media.fantv.hk
 fantv.hk
+
+# https://github.com/gfwlist/gfwlist/issues/1868
+yande.re
