@@ -470,3 +470,57 @@ wtfast.com
 # https://github.com/gfwlist/gfwlist/issues/1817
 # apps.evozi.com
 evozi.com
+
+# https://github.com/gfwlist/gfwlist/issues/1814
+# amp.9news.com.au
+9news.com.au
+
+# https://github.com/gfwlist/gfwlist/issues/1812
+y2mate.com
+
+# https://github.com/gfwlist/gfwlist/issues/1810
+v2raycn.com
+
+# https://github.com/gfwlist/gfwlist/issues/1809
+paofuyun.me
+
+# https://github.com/gfwlist/gfwlist/issues/1807
+conair.me
+
+# https://github.com/gfwlist/gfwlist/issues/1806
+zind.cloud
+
+# https://github.com/gfwlist/gfwlist/issues/1805
+limbopro.xyz
+
+# https://github.com/gfwlist/gfwlist/issues/1804
+n3ro.net
+n3ro.live
+
+# https://github.com/gfwlist/gfwlist/issues/1800
+nexitcore.com
+nexitally.com
+
+# https://github.com/gfwlist/gfwlist/issues/1799
+caijinglengyan.com
+
+# https://github.com/gfwlist/gfwlist/issues/1798
+brave.com
+
+# https://github.com/gfwlist/gfwlist/issues/1797
+2049bbs.xyz
+
+# https://github.com/gfwlist/gfwlist/issues/1792
+yuetwanlauseng.com
+
+# https://github.com/gfwlist/gfwlist/issues/1787
+sinoinsider.com
+
+# https://github.com/gfwlist/gfwlist/issues/1784
+huhangfei.com
+
+# https://github.com/gfwlist/gfwlist/issues/1782
+spark.adobe.com
+
+# https://github.com/gfwlist/gfwlist/issues/1781
+maying.co
