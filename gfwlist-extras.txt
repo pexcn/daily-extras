@@ -272,9 +272,6 @@ google.vg
 google.vu
 google.ws
 
-# https://github.com/gfwlist/gfwlist/issues/1965
-inoreader.com
-
 # https://github.com/gfwlist/gfwlist/issues/1959
 justmysocks.net
 
