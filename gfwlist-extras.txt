@@ -1,5 +1,3 @@
-hostloc.com
-
 # blogspot
 blogspot.ae
 blogspot.al
