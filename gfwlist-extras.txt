@@ -5,11 +5,19 @@ blogspot.am
 blogspot.ba
 blogspot.be
 blogspot.bg
+blogspot.bj
 blogspot.ca
 blogspot.cat
+blogspot.cf
 blogspot.ch
 blogspot.cl
+blogspot.co.at
+blogspot.co.id
+blogspot.co.il
+blogspot.co.ke
+blogspot.co.nz
 blogspot.co.uk
+blogspot.co.za
 blogspot.com
 blogspot.com.ar
 blogspot.com.au
@@ -24,6 +32,7 @@ blogspot.com.mt
 blogspot.com.ng
 blogspot.com.tr
 blogspot.com.uy
+blogspot.cv
 blogspot.cz
 blogspot.de
 blogspot.dk
@@ -52,7 +61,9 @@ blogspot.no
 blogspot.pe
 blogspot.pt
 blogspot.qa
+blogspot.re
 blogspot.ro
+blogspot.rs
 blogspot.ru
 blogspot.se
 blogspot.sg
